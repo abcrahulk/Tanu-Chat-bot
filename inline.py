@@ -18,7 +18,7 @@ DEV_OP = [
         InlineKeyboardButton(text="🚀 ʜᴇʟᴘ & ᴄᴍᴅs 🚀", callback_data="HELP"),
     ],
     [
-        InlineKeyboardButton(text="❄️ sᴏᴜʀᴄᴇ ❄️", callback_data="https://t.me/NO_LOVE_I_HATE_LOVE"),
+        InlineKeyboardButton(text="❄️ sᴏᴜʀᴄᴇ ❄️", callback_data="https://github.com/Krishnauff/krishna-aaruchatbot"),
         InlineKeyboardButton(text="☁️ ᴀʙᴏᴜᴛ ☁️", callback_data="ABOUT"),
     ],
 ]
