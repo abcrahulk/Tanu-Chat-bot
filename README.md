@@ -14,8 +14,7 @@
 <i>ᴀʟʟ ᴛʜᴇ ᴄᴜsᴛᴏᴍɪsᴀᴛɪᴏɴs ᴀʀᴇ ᴀᴠᴀɪʟᴀʙʟᴇ. ᴊᴜsᴛ ᴄʜᴇᴄᴋᴏᴜᴛ ᴛʜᴇ ʀᴇᴘᴏ ᴀɴᴅ ᴠᴀʀɪᴀʙʟᴇs.</i>
 <p align="center"><a href="https://t.me/mickeymouse_robot"> <img src="https://img.shields.io/badge/CHECK-Demo%20Robot-black?style=for-the-badge&logo=Telegram" width="220" height="39"/></a></p>
 
-## ʀᴇᴘᴏ sᴛᴀᴛs
-<a href="https://github.com/Devarora-0981/Mickey"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Devarora-0981&repo=Mickey&theme=chartreuse-dark"></a>
+
 
 ##
 
