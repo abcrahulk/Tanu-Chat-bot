@@ -1,3 +1,5 @@
+<p align="center"><a href="https://t.me/NO_LOVE_I_HATE_LOVE"><img src="https://te.legra.ph/file/a116a2082b3d452731591.jpg"></a></p>
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 # ᴀʙᴏᴜᴛ
