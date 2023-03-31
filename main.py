@@ -1,4 +1,4 @@
-#Don't remove This Line From Here. @Dev_Arora_0981 | @DevArora0981
+#Don't remove This Line From Here. @krishna-aaruchatbot | @DevArora0981
 #Github :- Devarora0981 | Devarora0987
 import requests
 import random
@@ -20,7 +20,7 @@ from motor.motor_asyncio import AsyncIOMotorClient as MongoCli
 
 
 bot = Client(
-    "Mickey" ,
+    "Aaru" ,
     api_id=API_ID,
     api_hash=API_HASH,
     bot_token=BOT_TOKEN,
