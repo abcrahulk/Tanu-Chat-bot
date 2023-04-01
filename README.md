@@ -24,7 +24,7 @@
 - [ᴘʀᴀɴᴀᴠ ᴀᴊᴀʏ](https://github.com/Krishnauff/krishna-aaruchatbot.git)
 - [ᴀɴᴏɴʏᴍᴏᴜs](https://telegram.me/ab_krishna_uff)
 - [ᴀʙɪsʜɴᴏɪ](https://telegram.me/ab_krishna_uff)
-- [ʜʏᴘᴇʀ ᴋɪɴɢ](https://t.me/NO_LOVE_I_HATE_LOVE)
+- [ʜʏᴘᴇʀ ᴋɪɴɢ](https://telegram.me/NO_LOVE_I_HATE_LOVE)
 - <p align="center"><a href="https://telegram.me/Ajanabee_Duniya"><img src="https://img.shields.io/badge/-Support%20Group-blue.svg?style=for-the-badge&logo=Telegram"></a>
 - </p><p align="center"><a href="https://telegram.me/ab_krishna_uff"><img src="https://img.shields.io/badge/-Support%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
 </p>
