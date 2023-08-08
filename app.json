@@ -1,6 +1,6 @@
 {
-    "name": " AARU 💖",   
-    "logo": "https://te.legra.ph/file/da880df27058a953ea175.png", 
+    "name": " TANU 💖",   
+    "logo": "https://te.legra.ph/file/759aef893a96bb28034a1.jpg", 
     "env": {
         "BOT_TOKEN": {
             "description": "telegram bot token here",
@@ -19,9 +19,9 @@
             "required": true
         },
         "OWNER_ID": {
-            "description": "Your Id Here! For Eg: 54326909.",
+            "description": "Your Id Here! For Eg: 5247304559.",
             "required": true,
-            "value": "5350929381"
+            "value": "5247304559"
         },
         "BOT_NAME": {
             "description": "Simple Bot-name. Do not use Modified Text..",
